@@ -1,4 +1,4 @@
-## San Francisco Fonts for Windows 10
+## San Francisco Fonts for Windows
 
 __San Francisco Pro__ for iOS, macOS, and tvOS
 
