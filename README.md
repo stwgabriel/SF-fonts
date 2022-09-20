@@ -8,7 +8,7 @@ __San Francisco Mono__ for Terminal and Code Editor
 
 --
 
-Tested on _Windows 10 Pro 64-bit_. 
+Tested on Windows 10 + 
  
 Open an issue if you have problem. 
 
